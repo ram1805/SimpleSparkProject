@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8120d16e-78d0-40f7-8b66-632cc636b3ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/scala/com/org/tom/StackSpecTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Test2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Test2-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Test2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/org/tom/App$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/org/tom/App$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/org/tom/App$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/org/tom/App$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/org/tom/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/org/tom/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/org/tom/SimpleScalaClass$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/org/tom/SimpleScalaClass$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/org/tom/SimpleScalaClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/org/tom/SimpleScalaClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes.-934748274.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/org/tom/Application.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +44,7 @@
   <component name="ProjectId" id="1SFPfmaTVoPhP8t75kYiOj6dsaE" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -93,8 +99,30 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="StackSpecTest.A Stack should pop values in last-in-first-out order" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Test2" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.org.tom.StackSpecTest" />
+      <option name="testName" value="A Stack should pop values in last-in-first-out order" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\ramak\IdeaProjects\Test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.StackSpecTest.A Stack should pop values in last-in-first-out order" />
         <item itemvalue="Application.SimpleScalaClass" />
       </list>
     </recent_temporary>
