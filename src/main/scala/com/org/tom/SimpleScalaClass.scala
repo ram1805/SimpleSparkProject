@@ -6,6 +6,7 @@ object SimpleScalaClass {
 
     print("Hello this is my first scala object")
     print("Hello this is my first scala object11111")
+    print("Hello this is my first scala object11345532")
 
   }
 
